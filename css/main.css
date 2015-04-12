@@ -1,44 +1,32 @@
 body {
 	color: #666666;
-	font-family: Verdana, sans-serif;
-	font-size: 16px;
+	font: 16px Verdana, sans-serif;
 	line-height: 32px;
 }
-
 h1 {
 	text-align: center;
 	padding-top: 26px;
 	font-size: 300%
 }
-
 h2 {
-	color: #F07C17;
+	color: #f07c17;
 	font-weight: 700;
 	margin-bottom: 29px;
 	font-size: 24px;
-
-
 }
-
 .mugpic {
 	margin-top: 20px;
 	margin-bottom: 30px;
 	max-width: 375px;
 }
-
 .featuresbox {
-	padding: 10px 0px 0px 30px;
-	border: 1px solid #CCCCCC;
+	padding: 10px 0 0 30px;
+	border: 1px solid #ccc;
 	max-width: 375px;
 }
-
-
 ul {
-	
 	padding-bottom: 30px;
 }
-
 .container {
 	margin-left: 27px;
 }
-
