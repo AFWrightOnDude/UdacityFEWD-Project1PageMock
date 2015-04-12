@@ -1,0 +1,9 @@
+Aaron Wright
+aaronfwright@gmail.com
+Project 1
+
+
+References:
+Boostrap Documentation
+W3Schools - Checked various things to make sure my code was in the correct format (like for padding).
+The Piazza Class Pages!
